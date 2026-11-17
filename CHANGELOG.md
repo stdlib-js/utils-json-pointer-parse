@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-10)
+## Unreleased (2026-11-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d00c253`](https://github.com/stdlib-js/stdlib/commit/d00c25388d3c73d6fe3a272540e6686a4a86bb19) - **refactor:** add error handling for invalid escape sequences [(#16677)](https://github.com/stdlib-js/stdlib/pull/16677) _(by Gururaj Gurram)_
 -   [`7932712`](https://github.com/stdlib-js/stdlib/commit/7932712b3b65765e50d383477a4866c556f72398) - **chore:** clean-up [(#16570)](https://github.com/stdlib-js/stdlib/pull/16570) _(by Philipp Burckhardt)_
 -   [`a9780f1`](https://github.com/stdlib-js/stdlib/commit/a9780f1bd8903e6946f3d565d929a26ba4356970) - **feat:** add `utils/json-pointer/parse` [(#14824)](https://github.com/stdlib-js/stdlib/pull/14824) _(by Gururaj Gurram, Athan Reines)_
 
